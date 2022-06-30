@@ -1,3 +1,69 @@
 <resources>
     <string name="app_name">ML_Model_To_Predict_MinimunEarningThrashold</string>
+
+
+    <string-array name="workplace">
+
+        <item>Private</item>
+        <item>self employee not-inc</item>
+        <item>State-Gov</item>
+        <item>Federal-Gov</item>
+        <item>Local-Gov</item>
+        <item>Unknown</item>
+        <item>self employee inc</item>
+        <item>Without-pay</item>
+        <item>Never Worked</item>
+
+    </string-array>
+
+    <string-array name="Gender">
+
+        <item>Male</item>
+        <item>Female</item>
+
+    </string-array>
+
+    <string-array name="race">
+
+        <item>White</item>
+        <item>Black</item>
+        <item>Asian-pac-islander</item>
+        <item>Amer-Indian-Eskimo</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string-array name="marige_Status">
+
+        <item>Married-civ-spouse</item>
+        <item>Divorced</item>
+        <item>Married Spouse absent</item>
+        <item>Never-Married</item>
+        <item>Separated</item>
+        <item>Married-AF-spouse</item>
+        <item>Widowed</item>
+
+    </string-array>
+
+    <string-array name="Occupation">
+
+
+        <item>Exec-managerial</item>
+        <item>Handlers-cleaners</item>
+        <item>Prof-specialty</item>
+        <item>Other-service</item>
+        <item>Adm-clerical</item>
+        <item>Craft-repair</item>
+        <item>Transport-moving</item>
+        <item>Farming-fishing</item>
+        <item>Machine-op-inspct</item>
+        <item>Tech-support</item>
+        <item>Protective-serv</item>
+        <item>Armed-Forces</item>
+        <item>Priv-house-serv</item>
+        <item>unknown</item>
+
+
+    </string-array>
+
 </resources>
